@@ -1,0 +1,19 @@
+{
+  "name": "lm-reset-style",
+  "version": "1.0.0",
+  "description": "lm-reset-style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FFF-team/lm-reset-style.git"
+  },
+  "author": "mxr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FFF-team/lm-reset-style/issues"
+  },
+  "homepage": "https://github.com/FFF-team/lm-reset-style#readme"
+}
