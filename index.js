@@ -1,1 +1,1 @@
-import './Style/lmui.scss';
+require('./style/index.scss');
