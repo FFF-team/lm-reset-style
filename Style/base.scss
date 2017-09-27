@@ -13,8 +13,8 @@ body, p, ul, ol, li, dl, dt, dd, h1, h2, h3, h4, h5, h6, form, div, span, i, em,
 }
 body {
     font-family: $font-family-default;
-    //font-size: $font-size-default;
-    //color: #333;
+    font-size: $font-size-default;
+    color: #333;
     //background-color: #efeff4;
     -webkit-overflow-scrolling: touch;
     max-width: 720px;
@@ -23,6 +23,7 @@ body {
     //-webkit-user-select: none;//禁止选择文字    
     //@include box-shadow(0 0 10px rgba(0,0,0,0.2));
     margin: 0 auto;
+    
 }
 // Universal link styling
 a {
